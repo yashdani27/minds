@@ -1,100 +1,100 @@
 [
     {
-        "title": "Floods hit South Africa\u2019s KwaZu\u00adlu-Na\u00adtal province again",
-        "excerpt": "The floods come only a month af\u00adter tor\u00adren\u00adtial rains killed 435 peo\u00adple in KwaZu\u00adlu-Na\u00adtal.",
+        "title": "Floods hit South Africa\u2019s KwaZulu-Natal province again",
+        "excerpt": "The floods come only a month after torrential rains killed 435 people in KwaZulu-Natal.",
         "Positive Sentiment": 0.0,
         "Negative Sentiment": 0.273,
         "Neutral Sentiment": 0.727
     },
     {
-        "title": "Mozam\u00adbique: Cy\u00adclone Gombe death toll ris\u00ades to 53",
-        "excerpt": "In re\u00adcent years, South\u00adern Africa has suf\u00adfered re\u00adpeat\u00aded dev\u00adas\u00adtat\u00ading cy\u00adclones that used to be rel\u00ada\u00adtive\u00adly rare.",
+        "title": "Mozambique: Cyclone Gombe death toll rises to 53",
+        "excerpt": "In recent years, Southern Africa has suffered repeated devastating cyclones that used to be relatively rare.",
+        "Positive Sentiment": 0.0,
+        "Negative Sentiment": 0.349,
+        "Neutral Sentiment": 0.651
+    },
+    {
+        "title": "Mozambique announces new prime minister after cabinet reshuffle",
+        "excerpt": "New ministers were named after a major reshuffle by President Filipe Nyusi.",
         "Positive Sentiment": 0.0,
         "Negative Sentiment": 0.0,
         "Neutral Sentiment": 1.0
     },
     {
-        "title": "Mozam\u00adbique an\u00adnounces new prime min\u00adis\u00adter af\u00adter cab\u00adi\u00adnet reshuf\u00adfle",
-        "excerpt": "New min\u00adis\u00adters were named af\u00adter a ma\u00adjor reshuf\u00adfle by Pres\u00adi\u00addent Fil\u00adipe Nyusi.",
-        "Positive Sentiment": 0.0,
-        "Negative Sentiment": 0.0,
-        "Neutral Sentiment": 1.0
-    },
-    {
-        "title": "Analy\u00adsis: Can African gas re\u00adplace Russ\u00adian sup\u00adplies to Eu\u00adrope?",
-        "excerpt": "A lack of in\u00adfra\u00adstruc\u00adture, not ca\u00adpac\u00adi\u00adty, could hurt the con\u00adti\u00adnent\u2019s plan to sup\u00adply gas to Eu\u00adrope in Rus\u00adsia\u2019s stead.",
+        "title": "Analysis: Can African gas replace Russian supplies to Europe?",
+        "excerpt": "A lack of infrastructure, not capacity, could hurt the continent\u2019s plan to supply gas to Europe in Russia\u2019s stead.",
         "Positive Sentiment": 0.132,
         "Negative Sentiment": 0.109,
         "Neutral Sentiment": 0.759
     },
     {
-        "title": "Dozens dead from Trop\u00adi\u00adcal Storm Ana in south\u00adern Africa",
-        "excerpt": "At least 70 killed in storm that struck Mada\u00adgas\u00adcar, Mozam\u00adbique and Malawi as au\u00adthor\u00adi\u00adties scram\u00adble to re\u00adpair dam\u00adages.",
+        "title": "Dozens dead from Tropical Storm Ana in southern Africa",
+        "excerpt": "At least 70 killed in storm that struck Madagascar, Mozambique and Malawi as authorities scramble to repair damages.",
         "Positive Sentiment": 0.0,
-        "Negative Sentiment": 0.289,
-        "Neutral Sentiment": 0.711
+        "Negative Sentiment": 0.385,
+        "Neutral Sentiment": 0.615
     },
     {
-        "title": "South\u00adern Africa bloc SADC ex\u00adtends Mozam\u00adbique mis\u00adsion",
-        "excerpt": "Re\u00adgion\u00adal body says progress made against rebels in Cabo Del\u00adga\u00addo province since troops de\u00adployed last year.",
+        "title": "Southern Africa bloc SADC extends Mozambique mission",
+        "excerpt": "Regional body says progress made against rebels in Cabo Delgado province since troops deployed last year.",
         "Positive Sentiment": 0.151,
         "Negative Sentiment": 0.097,
         "Neutral Sentiment": 0.753
     },
     {
         "title": " Start Here",
-        "excerpt": "Why peo\u00adple in Mada\u00adgas\u00adcar are starv\u00ading.",
+        "excerpt": "Why people in Madagascar are starving.",
         "Positive Sentiment": 0.0,
+        "Negative Sentiment": 0.359,
+        "Neutral Sentiment": 0.641
+    },
+    {
+        "title": "In Mozambique, Kagame says Rwandan troops\u2019 work not over",
+        "excerpt": "Rwandan president says his country\u2019s force will help secure and rebuild Cabo Delgado areas destroyed by armed campaign.",
+        "Positive Sentiment": 0.219,
+        "Negative Sentiment": 0.137,
+        "Neutral Sentiment": 0.644
+    },
+    {
+        "title": "Rwanda, Mozambique forces recapture port city from rebels",
+        "excerpt": "Mocimboa da Praia, home to one of Africa\u2019s biggest natural gas projects, retaken from rebels, Rwandan army says.",
+        "Positive Sentiment": 0.123,
+        "Negative Sentiment": 0.089,
+        "Neutral Sentiment": 0.788
+    },
+    {
+        "title": "Rwanda deploys 1,000 soldiers to Mozambique\u2019s Cabo Delgado",
+        "excerpt": "Gov\u2019t says deployment at request of Mozambican authorities aimed at restoring state control in conflict-hit province.",
+        "Positive Sentiment": 0.128,
         "Negative Sentiment": 0.0,
-        "Neutral Sentiment": 1.0
+        "Neutral Sentiment": 0.872
     },
     {
-        "title": "In Mozam\u00adbique, Kagame says Rwan\u00addan troops\u2019 work not over",
-        "excerpt": "Rwan\u00addan pres\u00adi\u00addent says his coun\u00adtry\u2019s force will help se\u00adcure and re\u00adbuild Cabo Del\u00adga\u00addo ar\u00adeas de\u00adstroyed by armed cam\u00adpaign.",
-        "Positive Sentiment": 0.137,
-        "Negative Sentiment": 0.0,
-        "Neutral Sentiment": 0.863
+        "title": "Southern African nations agree to deploy forces to Mozambique",
+        "excerpt": "The SADC Standby Force will support Mozambique \u2018to combat terrorism and acts of violent extremism\u2019 in Cabo Delgado.",
+        "Positive Sentiment": 0.098,
+        "Negative Sentiment": 0.395,
+        "Neutral Sentiment": 0.507
     },
     {
-        "title": "Rwan\u00adda, Mozam\u00adbique forces re\u00adcap\u00adture port city from rebels",
-        "excerpt": "Mocim\u00adboa da Pra\u00adia, home to one of Africa\u2019s biggest nat\u00adur\u00adal gas projects, re\u00adtak\u00aden from rebels, Rwan\u00addan army says.",
-        "Positive Sentiment": 0.0,
-        "Negative Sentiment": 0.096,
-        "Neutral Sentiment": 0.904
-    },
-    {
-        "title": "Rwan\u00adda de\u00adploys 1,000 sol\u00addiers to Mozam\u00adbique\u2019s Cabo Del\u00adga\u00addo",
-        "excerpt": "Gov\u2019t says de\u00adploy\u00adment at re\u00adquest of Mozam\u00adbi\u00adcan au\u00adthor\u00adi\u00adties aimed at restor\u00ading state con\u00adtrol in con\u00adflict-hit province.",
-        "Positive Sentiment": 0.0,
-        "Negative Sentiment": 0.0,
-        "Neutral Sentiment": 1.0
-    },
-    {
-        "title": "South\u00adern African na\u00adtions agree to de\u00adploy forces to Mozam\u00adbique",
-        "excerpt": "The SADC Stand\u00adby Force will sup\u00adport Mozam\u00adbique \u2018to com\u00adbat ter\u00adror\u00adism and acts of vi\u00ado\u00adlent ex\u00adtrem\u00adism\u2019 in Cabo Del\u00adga\u00addo.",
-        "Positive Sentiment": 0.0,
-        "Negative Sentiment": 0.0,
-        "Neutral Sentiment": 1.0
-    },
-    {
-        "title": "Vi\u00adsu\u00adal\u00adis\u00ading 70 years of refugee jour\u00adneys",
-        "excerpt": "On World Refugee Day, Al Jazeera looks at the painful jour\u00adneys refugees were forced on in 2020 de\u00adspite glob\u00adal pan\u00addem\u00adic.",
+        "title": "Visualising 70 years of refugee journeys",
+        "excerpt": "On World Refugee Day, Al Jazeera looks at the painful journeys refugees were forced on in 2020 despite global pandemic.",
         "Positive Sentiment": 0.0,
         "Negative Sentiment": 0.247,
         "Neutral Sentiment": 0.753
     },
     {
-        "title": "Dozens of chil\u00addren, most\u00adly girls, ab\u00adduct\u00aded by Mozam\u00adbique fight\u00aders",
-        "excerpt": "Save the Chil\u00addren says 51 mi\u00adnors tak\u00aden by armed groups in Cabo Del\u00adga\u00addo in 2020, a fig\u00adure like\u00adly an un\u00adder\u00ades\u00adti\u00admate.",
-        "Positive Sentiment": 0.151,
-        "Negative Sentiment": 0.0,
-        "Neutral Sentiment": 0.849
+        "title": "Dozens of children, mostly girls, abducted by Mozambique fighters",
+        "excerpt": "Save the Children says 51 minors taken by armed groups in Cabo Delgado in 2020, a figure likely an underestimate.",
+        "Positive Sentiment": 0.143,
+        "Negative Sentiment": 0.098,
+        "Neutral Sentiment": 0.759
     },
     {
-        "title": "White peo\u00adple res\u00adcued be\u00adfore Black peo\u00adple in Pal\u00adma: Amnesty",
-        "excerpt": "Rights group al\u00adleges white con\u00adtrac\u00adtors air\u00adlift\u00aded to safe\u00adty be\u00adfore lo\u00adcal Black peo\u00adple af\u00adter raid on Mozam\u00adbi\u00adcan town.",
-        "Positive Sentiment": 0.0,
+        "title": "White people rescued before Black people in Palma: Amnesty",
+        "excerpt": "Rights group alleges white contractors airlifted to safety before local Black people after raid on Mozambican town.",
+        "Positive Sentiment": 0.149,
         "Negative Sentiment": 0.0,
-        "Neutral Sentiment": 1.0
+        "Neutral Sentiment": 0.851
     }
 ]

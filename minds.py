@@ -33,13 +33,19 @@ for index, content in enumerate(contents):
     #     break
 
     # extract news headline
-    title = str(content.find('a').find('span').text)
+    title = content.find('a').find('span').text
+    title = title.replace("&shy", "")
+    title = title.replace(";\xad", "")
+    title = title.replace("\xad", "")
 
     # extract news excerpt
-    excerpt = str(content.find(class_="gc__excerpt").find('p').text)
+    excerpt = content.find(class_="gc__excerpt").find('p').text
+    excerpt = excerpt.replace("&shy", "")
+    excerpt = excerpt.replace(";\xad", "")
+    excerpt = excerpt.replace("\xad", "")
 
     print('Title: ' + title)
-    print('Excerpt: ' + excerpt.replace('U+002D', ''))
+    print('Excerpt: ' + excerpt)
     print()
 
     # create corresponding lists for the news title and excerpts
