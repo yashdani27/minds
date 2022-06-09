@@ -7,6 +7,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 from tqdm import tqdm
 from time import sleep
+import json
 
 # global variables initialization
 list_titles = []
@@ -96,5 +97,21 @@ fig.update_xaxes(title_text="news")
 fig.update_yaxes(title_text="pos yaxis title", secondary_y=False)
 fig.update_yaxes(title_text="neg yaxis title", secondary_y=True)
 fig.update_yaxes(title_text="neu yaxis title", secondary_y=True)
+
+# Store title, excerpt, sentiment data in news.json
+articles = []
+for index, title in enumerate(list_titles):
+    dict = {}
+    dict["title"] = title
+    dict["excerpt"] = list_exc[index]
+    dict["Positive Sentiment"] = list_pos[index]
+    dict["Negative Sentiment"] = list_neg[index]
+    dict["Neutral Sentiment"] = list_neu[index]
+    articles.append(dict)
+
+with open("news.json", "w") as f:
+    json_data = json.dumps(articles, indent=4)
+    f.write(json_data)
+
 
 fig.show()
